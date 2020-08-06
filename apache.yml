@@ -9,4 +9,4 @@
    - name: Deploy static website
      copy:
       src: index.html
-      dest: /var/www/html/myapp
+      dest: /var/www/html
